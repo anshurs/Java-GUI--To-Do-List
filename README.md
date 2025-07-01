@@ -30,7 +30,9 @@ Clone or Download the repository
 
 
 Compile the Code
+
 javac Main.java ToDoFrame.java ToDoPanel.java
 
 Run the Application
+
 java Main
