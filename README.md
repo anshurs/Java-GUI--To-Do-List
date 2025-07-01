@@ -22,13 +22,12 @@ Prerequisites
 
     Java JDK 8 or higher
 
-Compilation & Running
+Clone or Download the repository
 
-    Clone or Download the Repository
+    git clone https://github.com/anshurs/Java-GUI--To-Do-List.git
+    
+    cd Java-GUI--To-Do-List
 
-
-git clone https://github.com/anshurs/Java-GUI--To-Do-List.git
-cd Java-GUI--To-Do-List
 
 Compile the Code
 javac Main.java ToDoFrame.java ToDoPanel.java
