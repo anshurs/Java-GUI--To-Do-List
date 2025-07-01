@@ -13,9 +13,9 @@ Features
 
 ## File Structure
 .
-├── Main.java         // Entry point of the application
-├── ToDoFrame.java    // Main application window (JFrame)
-└── ToDoPanel.java    // Panel containing the task list and controls
+├── Main.java         
+├── ToDoFrame.java    
+└── ToDoPanel.java    
 
 ## Getting Started
 Prerequisites
